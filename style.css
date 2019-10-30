@@ -1,0 +1,18 @@
+.nav{
+	background-color: rgba(47, 42, 55,0.3);
+}
+ul{
+	list-style-type: none;
+}
+ul a{
+	text-decoration: none;
+	color: black;
+}
+ ul a:hover{
+	color:purple;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.btn{
+	background-color: purple;
+}
